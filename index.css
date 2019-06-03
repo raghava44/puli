@@ -1,0 +1,51 @@
+.surname{
+  margin: 6px;
+	font-size: 18;
+	
+}
+.uname{
+  margin: 6px;
+  font-size: 18;
+
+}
+
+.phone{
+  margin: 6px;
+  font-size: 18;
+  
+}
+
+.mail{
+  margin: 6px;
+  font-size: 18;
+ 
+}
+
+.surname input{
+	
+	padding: 5px;
+	margin-left: 20px;
+}
+.uname input{
+	
+	padding: 5px;
+	margin-left: 12px;
+	box-sizing: border-box;
+}
+.phone input{
+	
+	padding: 5px;
+	margin-left: 40px;
+}
+.mail input{
+	
+	padding: 5px;
+	margin-left: 43px;
+}
+.submit input{
+	padding: 5px;
+	margin-left: 100px;
+}
+.msg{
+	font-size: 20;
+}
